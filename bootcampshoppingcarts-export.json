@@ -1,0 +1,106 @@
+{
+  "product_category" : {
+    "category_1" : {
+      "category_name" : "Fashion",
+      "id" : 1,
+      "status" : 1
+    },
+    "category_2" : {
+      "category_name:" : "Electronics",
+      "id" : 2,
+      "status" : 1
+    },
+    "category_3" : {
+      "category_name" : "Kitchen Equipments and Wares",
+      "id" : 3,
+      "status" : 1
+    },
+    "category_4" : {
+      "category_name" : "Sports Equipments & Materials",
+      "id" : 4,
+      "status" : 1
+    }
+  },
+  "products" : {
+    "product_1" : {
+      "category_id" : "category_3",
+      "id" : 1,
+      "product_description" : "The Linsan Halogen oven uses efficient convention heating and high air flow cooking to replicate your traditional cooking methods with superb result-50% faster while using 75% less electricity.It roasts,bakes,grills,fry food tender and crispy with little or no oil. It defrosts and can oven cook frozen food straight from the freezer.  it has a 12L capacity which can be extented to 17L with the Extender for larger cooking.Easy to operate and clean with the non stick protective head.Also comes with two racks,tong,Instruction manual and extender.  This super -handy oven syystem will quickly become an indispensible part of your kitchen",
+      "product_image" : "oven.png",
+      "product_name" : "Linsan Halogen Oven-Red",
+      "product_quantity" : 50,
+      "product_selling_price" : 17000,
+      "status" : 1
+    },
+    "product_2" : {
+      "category_id" : "category_3",
+      "id" : 2,
+      "product_description" : "The high quality stainless steel blades and 360° stir stick ensure the best texture and blends of ice, fruit, yogurt and ice cream to create delicious smoothies to enjoy any time. And when it's all ready to serve, there's a handy tap for pouring your smoothies into your favourite glasses.  The Kenwood SB266 silver smoothie machine has a powerful 500W motor, 1.5 litre capacity and 2 speeds plus pulse.  Patented 360° spatula stir stick for maximum mixing efficiency. Free recipe book included - full of nutritional, quick and fun recipes.",
+      "product_image" : "blender.png",
+      "product_name" : "Kenwood Smoothie Blender",
+      "product_quantity" : 50,
+      "product_selling_price" : 19000,
+      "status" : 1
+    },
+    "product_3" : {
+      "category_id" : "category_1",
+      "id" : 3,
+      "product_description" : "This is just what you are looking for, easy to walk in and ultra-wearable. These classic UK made shoes are the ultimate way to update your wardrobe for the season. A range of high-performance technologies deliver comfort and protection while our traditional craftsmanship is fused with contemporary design for an unbeatable finish.  COLOUR: NAVY Blue Leather",
+      "product_image" : "leatherShoes.png",
+      "product_name" : "Leather Shoes - Navy Blue",
+      "product_quantity" : 50,
+      "product_selling_price" : 12000,
+      "status" : 1
+    },
+    "product_4" : {
+      "category_id" : "category_1",
+      "id" : 4,
+      "product_description" : "Fashion fantabulous new release of ladies Italian shoe and bag very high quality. A set of shoe for your all kinds of occasions. Very comfortable slippers. Very dressy and gives you a different look. Red colour same as picture. Sizes 38/39/40/41/42/43.",
+      "product_image" : "shoenbag.png",
+      "product_name" : "Ladies Italian Leather Shoe & Bag - Red",
+      "product_quantity" : 50,
+      "product_selling_price" : 23500,
+      "status" : 1
+    },
+    "product_5" : {
+      "category_id" : "category_2",
+      "id" : 5,
+      "product_description" : "Experience crystal-clear programming from your TV with SYINIX’s Clean View. By applying Clean View’s auto noise-removal technology, it removes digital and analog noise that is seen on the screen. The Analog Noise Filter enhances the picture quality by deleting visual noise from both air and cable sources. Sit back, relax and watch TV with the best clarity.",
+      "product_image" : "tv.png",
+      "product_name" : "Syinix - 32\" TV",
+      "product_quantity" : 50,
+      "product_selling_price" : 65000,
+      "status" : 1
+    },
+    "product_6" : {
+      "category_id" : "category_2",
+      "id" : 6,
+      "product_description" : "GUI/ Menu (Language)\t    Option     Video DAC\t    148MHZ/12bit     NTSC/PAL Hz\t    60Hz / 50Hz     Resolution\t    upto 1080p24/60Hz     VBI - WSS/CGMS-A/Closed Caption/Macrovsion\t    Yes     NTSC⇔PAL Conversion\t    Yes     HDMI 1.4\t    Yes     Deep Colour\t    Yes     Audio Return Channel (ARC)\t    Yes     xvYCC\t    Yes     Last Scene memory\t    Yes     Photo Zoom\t    Yes     Video Enhancement\t    Yes     Text-based Subtitle\t    Yes     2bit/ 8bit Sub-picture\t    Yes     Ch\t    5.1     Power Output - Total\t    1000W     Power Output - Front L/R\t    167W x 2     Power Output - Center\t    167W     Power Output - Surround\t    167W x 2     Power Output - Sub-Woofer\t    167W (Passive)     3D / 2D\t    Yes / Yes     Wired (Ethernet)\t    Yes     DLNA(Smart Share)\t    DMP/ DMR (Mobile to TV Streaming)",
+      "product_image" : "homeTheater.png",
+      "product_name" : "LG AUD Home Theatre BH6230S",
+      "product_quantity" : 50,
+      "product_selling_price" : 68600,
+      "status" : 1
+    },
+    "product_7" : {
+      "category_id" : "category_4",
+      "id" : 7,
+      "product_description" : "The Slazenger Xcel Ultimate Tennis Rackets are ideal for intermediate and advanced players seeking to improve their game. • The Slazenger Xcel Ultimate Tennis Rackets provide great power and control and features Cushion Grommets located in the racket bridge to dampen string vibration for more comfort and control.",
+      "product_image" : "racket.png",
+      "product_name" : "Slazenger Lawn Tennis Racket",
+      "product_quantity" : 50,
+      "product_selling_price" : 29500,
+      "status" : 1
+    },
+    "product_8" : {
+      "category_id" : "category_4",
+      "id" : 1,
+      "product_description" : "Outdoor clay courts are not normally used in areas with high rainfall, as they take a relatively long time to dry, hence reducing the time available for play. Clay courts cannot be used during frosty weather.",
+      "product_image" : "lawntennisball.png",
+      "product_name" : "Joerex Sports Lawn Tennis Ball",
+      "product_quantity" : 50,
+      "product_selling_price" : 2570,
+      "status" : 1
+    }
+  }
+}
